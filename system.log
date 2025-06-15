@@ -1,0 +1,16 @@
+2025-04-01 08:15:23 INFO System startup completed successfully
+2025-04-01 09:32:45 WARNING Low disk space on /dev/sda1
+2025-04-01 10:45:12 ERROR Failed to connect to database server
+2025-04-01 11:22:18 INFO User admin logged in
+2025-04-01 13:05:33 INFO Backup process started
+2025-04-01 13:15:42 ERROR Backup failed: permission denied
+2025-04-01 14:30:55 WARNING CPU usage above 80%
+2025-04-01 15:12:09 INFO Regular system scan completed
+2025-04-01 16:45:23 ERROR Unable to reach network storage
+2025-04-01 17:33:10 INFO User admin logged out
+2025-04-01 18:22:45 WARNING Memory usage exceeds 70%
+2025-04-01 19:15:30 INFO System updates available
+2025-04-01 20:05:18 ERROR Failed to install updates: network error
+2025-04-01 21:30:42 INFO Scheduled maintenance started
+2025-04-01 22:45:19 INFO Maintenance completed successfully
+2025-04-01 23:59:59 WARNING Suspicious login attempt from IP 192.168.1.155

@@ -1,0 +1,25 @@
+This is a sample text file.
+It contains multiple lines.
+Some lines have numbers like 123 and 456.
+Other lines have special characters like @#$%.
+There are also lines with email addresses like user@example.com.
+And some lines have phone numbers like 555-123-4567.
+This file will be used for practicing grep, sed, and awk.
+Let's include some more data:
+The quick brown fox jumps over the lazy dog.
+Pack my box with five dozen liquor jugs.
+How vexingly quick daft zebras jump!
+The five boxing wizards jump quickly.
+
+We'll also add some structured data:
+Name: John Smith, Age: 35, City: New York
+Name: Sarah Johnson, Age: 28, City: Los Angeles
+Name: Michael Brown, Age: 42, City: Chicago
+Name: Emma Wilson, Age: 31, City: Houston
+
+And some repeated words:
+The cat sat on the mat. The dog chased the cat. The cat ran away.
+One fish, two fish, red fish, blue fish.
+Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo.
+
+End of sample file.

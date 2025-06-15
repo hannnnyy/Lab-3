@@ -1,0 +1,12 @@
+John Smith,Engineer,john.smith@company.com,555-123-4567
+Sarah Johnson,Manager,sarah.j@company.com,555-234-5678
+Michael Brown,Developer,mike.brown@company.com,555-345-6789
+Emma Wilson,Designer,emma.wilson@company.com,555-456-7890
+David Lee,Engineer,david.lee@company.com,555-567-8901
+Jennifer Davis,Manager,jen.davis@company.com,555-678-9012
+Robert Taylor,Developer,rob.taylor@company.com,555-789-0123
+Lisa Anderson,Designer,lisa.a@company.com,555-890-1234
+James Wilson,Engineer,james.w@company.com,555-901-2345
+Michelle Clark,Manager,michelle.c@company.com,555-012-3456
+Daniel Martin,Developer,dan.martin@company.com,555-123-7890
+Rachel White,Designer,rachel.white@company.com,555-234-8901
