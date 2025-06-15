@@ -1,0 +1,14 @@
+[2025-06-15 04:35:05] [/workspaces/Lab-3] source .devcontainer/shell.sh
+[2025-06-15 04:35:50] [/workspaces/Lab-3] grep -i "warning" system.log
+[2025-06-15 04:36:11] [/workspaces/Lab-3] grep -n "INFO" system.log
+[2025-06-15 04:37:27] [/workspaces/Lab-3] grep -c "ERROR" system.log
+[2025-06-15 04:38:33] [/workspaces/Lab-3] grep -ic "WARNING" system.log
+[2025-06-15 04:39:40] [/workspaces/Lab-3] grep -c "INFO" system.log
+[2025-06-15 05:30:56] [/workspaces/Lab-3] grep "^2025-04-01 1" system.log
+[2025-06-15 05:36:05] [/workspaces/Lab-3] sed 's/ERROR/CRITICAL/g' system.log > system_critical.log
+[2025-06-15 05:38:10] [/workspaces/Lab-3] sed '/^$/d' sample.txt > no_blank_lines.txt
+[2025-06-15 05:39:10] [/workspaces/Lab-3] sed '/^$/d' sample.txt > no_blank_lines.txt
+[2025-06-15 05:42:49] [/workspaces/Lab-3] awk '{print $1, $NF}' contacts.txt
+[2025-06-15 06:20:56] [/workspaces/Lab-3] awk '$3 > 10' sales.txt
+[2025-06-15 06:30:02] [/workspaces/Lab-3] awk '{print $1, $2 * $3}' sales.txt
+[2025-06-15 06:37:14] [/workspaces/Lab-3] awk '{total += $2 * $3} END {print "Total Sales:", total}' sales.txt
